@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning programming
 - 📫 murataktas3421@gmail.com my e-mail account
 - 😄 Pronouns: student
-- ⚡ Fun fact: life is exciting
+- ⚡ Fun fact: you will be rewarded even if it is late.
+  
 
 <!---
 Mur-47/Mur-47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
