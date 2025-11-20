@@ -1,5 +1,5 @@
 
-# Merhaba 👋, Ben <Murat>
+# Merhaba 👋, Ben Murat
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Mur-47&label=Profil+Görüntüleme&color=0e75b6&style=flat" alt="Profil Görüntüleme Sayısı" />
 
