@@ -3,7 +3,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Mur-47&label=Profil+Görüntüleme&color=0e75b6&style=flat" alt="Profil Görüntüleme Sayısı" />
 
-Yazılım dünyasına yeni adım atan / Deneyimli bir **[Fullstack]** geliştiricisiyim. Kod yazmayı ve sürekli yeni şeyler öğrenmeyi seviyorum. Bu profil, üzerinde çalıştığım projeleri ve kullandığım teknolojileri sergilemek için bir alan.
+Yazılım dünyasına yeni adım atan bir **[Fullstack]** geliştiricisiyim. Kod yazmayı ve sürekli yeni şeyler öğrenmeyi seviyorum. Bu profil, üzerinde çalıştığım projeleri ve kullandığım teknolojileri sergilemek için bir alan.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
