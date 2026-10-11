@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="380" viewBox="0 0 1400 380" role="img" aria-label="Murat Aktaş — Software Developer and Aspiring Tech Entrepreneur">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070C14"/>
+      <stop offset="0.56" stop-color="#0E1826"/>
+      <stop offset="1" stop-color="#14253A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#D5E2EC"/>
+      <stop offset="0.58" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#D5E2EC"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#77CFF9" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#77CFF9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M 46 0 L 0 0 0 46" fill="none" stroke="#8DB3CC" stroke-width=".75" opacity=".10"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1400" height="380" rx="22"/></clipPath>
+    <style>
+      .h { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 750; }
+      .t { font-family: 'Segoe UI', Arial, sans-serif; }
+      @keyframes breathe { 0%, 100% { opacity:.45; } 50% { opacity:1; } }
+      .beacon { animation: breathe 3.5s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) { .beacon { animation:none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1400" height="380" fill="url(#bg)"/>
+    <rect width="1400" height="380" fill="url(#grid)"/>
+    <path d="M 0 0 H 1400" stroke="#B9CFDB" stroke-opacity=".20"/>
+    <path d="M 0 379 H 1400" stroke="#B9CFDB" stroke-opacity=".20"/>
+    <rect x="56" y="67" width="4" height="245" rx="2" fill="url(#accent)"/>
+    <text x="91" y="90" class="t" font-size="15" letter-spacing="4.2" fill="#8EAAC0">SOFTWARE  /  PRODUCTS  /  PROGRESS</text>
+    <path d="M 91 112 H 640" stroke="#A7C4D8" stroke-opacity=".20"/>
+    <text x="86" y="214" class="h" font-size="76" letter-spacing="4" fill="#EDF4FA">MURAT AKTAŞ</text>
+    <text x="91" y="264" class="t" font-size="25" fill="#AFC6D9" letter-spacing=".5">Software Developer</text>
+    <circle cx="386" cy="254" r="4" fill="#7DD3FC"/>
+    <text x="411" y="264" class="t" font-size="24" fill="#AFC6D9">Aspiring Tech Entrepreneur</text>
+    <text x="91" y="323" class="t" font-size="17" letter-spacing="2" fill="#80CBF0">BUILD PRODUCTS. SOLVE PROBLEMS. CREATE VALUE.</text>
+
+    <circle cx="1172" cy="180" r="270" fill="url(#aura)"/>
+    <g transform="translate(1180 184)">
+      <circle r="134" fill="none" stroke="#88BBDA" stroke-opacity=".24" stroke-width="1"/>
+      <circle r="109" fill="none" stroke="#9DCEF0" stroke-opacity=".29" stroke-width="1"/>
+      <circle r="85" fill="none" stroke="#95D8FA" stroke-opacity=".36" stroke-width="1.4"/>
+      <path d="M -142 0 H 142 M 0 -142 V 142" stroke="#8FC8E9" stroke-opacity=".13"/>
+      <path d="M -95 -95 L 95 95 M 95 -95 L -95 95" stroke="#B5D3E7" stroke-opacity=".14"/>
+      <g fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".91">
+        <path d="M -27 -27 L -55 0 L -27 27"/>
+        <path d="M 27 -27 L 55 0 L 27 27"/>
+        <path d="M 13 -39 L -13 39" stroke-width="4"/>
+      </g>
+      <circle cx="0" cy="-109" r="5" fill="#98E2FF" class="beacon"/>
+      <circle cx="103" cy="-39" r="3.5" fill="#DDEDF8" opacity=".85"/>
+      <circle cx="-118" cy="67" r="3" fill="#7DD3FC" opacity=".7"/>
+      <path d="M -48 -128 A 137 137 0 0 1 53 -125" stroke="#7DD3FC" stroke-width="3" fill="none" stroke-linecap="round" opacity=".75"/>
+      <path d="M 132 31 A 137 137 0 0 1 83 106" stroke="#D9E7F0" stroke-width="2" fill="none" stroke-linecap="round" opacity=".65"/>
+    </g>
+    <circle cx="1040" cy="92" r="1.45" fill="#B9DAEE" opacity="0.10"/>
+    <circle cx="1063" cy="92" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1086" cy="92" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1109" cy="92" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1132" cy="92" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1155" cy="92" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1178" cy="92" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1201" cy="92" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1224" cy="92" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1247" cy="92" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1270" cy="92" r="1.45" fill="#B9DAEE" opacity="0.10"/>
+    <circle cx="1293" cy="92" r="1.45" fill="#B9DAEE" opacity="0.09"/>
+    <circle cx="1316" cy="92" r="1.45" fill="#B9DAEE" opacity="0.07"/>
+    <circle cx="1040" cy="115" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1063" cy="115" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1086" cy="115" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1109" cy="115" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1132" cy="115" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1155" cy="115" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1178" cy="115" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1201" cy="115" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1224" cy="115" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1247" cy="115" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1270" cy="115" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1293" cy="115" r="1.45" fill="#B9DAEE" opacity="0.10"/>
+    <circle cx="1316" cy="115" r="1.45" fill="#B9DAEE" opacity="0.09"/>
+    <circle cx="1040" cy="138" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1063" cy="138" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1086" cy="138" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1109" cy="138" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1132" cy="138" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1155" cy="138" r="1.45" fill="#B9DAEE" opacity="0.19"/>
+    <circle cx="1178" cy="138" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1201" cy="138" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1224" cy="138" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1247" cy="138" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1270" cy="138" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1293" cy="138" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1316" cy="138" r="1.45" fill="#B9DAEE" opacity="0.10"/>
+    <circle cx="1040" cy="161" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1063" cy="161" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1086" cy="161" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1109" cy="161" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1132" cy="161" r="1.45" fill="#B9DAEE" opacity="0.20"/>
+    <circle cx="1155" cy="161" r="1.45" fill="#B9DAEE" opacity="0.20"/>
+    <circle cx="1178" cy="161" r="1.45" fill="#B9DAEE" opacity="0.19"/>
+    <circle cx="1201" cy="161" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1224" cy="161" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1247" cy="161" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1270" cy="161" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1293" cy="161" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1316" cy="161" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1040" cy="184" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1063" cy="184" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1086" cy="184" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1109" cy="184" r="1.45" fill="#B9DAEE" opacity="0.20"/>
+    <circle cx="1132" cy="184" r="1.45" fill="#B9DAEE" opacity="0.21"/>
+    <circle cx="1155" cy="184" r="1.45" fill="#B9DAEE" opacity="0.22"/>
+    <circle cx="1178" cy="184" r="1.45" fill="#B9DAEE" opacity="0.20"/>
+    <circle cx="1201" cy="184" r="1.45" fill="#B9DAEE" opacity="0.19"/>
+    <circle cx="1224" cy="184" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1247" cy="184" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1270" cy="184" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1293" cy="184" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1316" cy="184" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1040" cy="207" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1063" cy="207" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1086" cy="207" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1109" cy="207" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1132" cy="207" r="1.45" fill="#B9DAEE" opacity="0.20"/>
+    <circle cx="1155" cy="207" r="1.45" fill="#B9DAEE" opacity="0.20"/>
+    <circle cx="1178" cy="207" r="1.45" fill="#B9DAEE" opacity="0.19"/>
+    <circle cx="1201" cy="207" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1224" cy="207" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1247" cy="207" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1270" cy="207" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1293" cy="207" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1316" cy="207" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1040" cy="230" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1063" cy="230" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1086" cy="230" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1109" cy="230" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1132" cy="230" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1155" cy="230" r="1.45" fill="#B9DAEE" opacity="0.19"/>
+    <circle cx="1178" cy="230" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1201" cy="230" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1224" cy="230" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1247" cy="230" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1270" cy="230" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1293" cy="230" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1316" cy="230" r="1.45" fill="#B9DAEE" opacity="0.10"/>
+    <circle cx="1040" cy="253" r="1.45" fill="#B9DAEE" opacity="0.12"/>
+    <circle cx="1063" cy="253" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1086" cy="253" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1109" cy="253" r="1.45" fill="#B9DAEE" opacity="0.16"/>
+    <circle cx="1132" cy="253" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1155" cy="253" r="1.45" fill="#B9DAEE" opacity="0.18"/>
+    <circle cx="1178" cy="253" r="1.45" fill="#B9DAEE" opacity="0.17"/>
+    <circle cx="1201" cy="253" r="1.45" fill="#B9DAEE" opacity="0.15"/>
+    <circle cx="1224" cy="253" r="1.45" fill="#B9DAEE" opacity="0.14"/>
+    <circle cx="1247" cy="253" r="1.45" fill="#B9DAEE" opacity="0.13"/>
+    <circle cx="1270" cy="253" r="1.45" fill="#B9DAEE" opacity="0.11"/>
+    <circle cx="1293" cy="253" r="1.45" fill="#B9DAEE" opacity="0.10"/>
+    <circle cx="1316" cy="253" r="1.45" fill="#B9DAEE" opacity="0.09"/>
+    <path d="M 1015 346 H 1350" stroke="#7EA5BD" stroke-opacity=".33"/>
+    <text x="1348" y="335" text-anchor="end" class="t" font-size="12" letter-spacing="3" fill="#749CB5">INDEPENDENT BUILDER</text>
+  </g>
+</svg>
