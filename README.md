@@ -112,7 +112,7 @@ Amacım yalnızca kod yazmak değil; kullanılabilir ürünler geliştirmek, ins
   <br />
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Mur-47&amp;hide_border=true&amp;background=0D1117&amp;ring=7DD3FC&amp;fire=7DD3FC&amp;currStreakLabel=7DD3FC&amp;sideLabels=C9D1D9&amp;dates=8EA8BD" />
   <br />
-  <img width="98%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mur-47&amp;bg_color=0D1117&amp;color=AFD7EB&amp;line=7DD3FC&amp;point=E6F6FF&amp;area=true&amp;hide_border=true" />
+ 
 </div>
 
 <details>
